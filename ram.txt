@@ -1,2 +1,0 @@
-Hi this is Niranjan first git repository
-this is second line
