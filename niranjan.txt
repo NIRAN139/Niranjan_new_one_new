@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, this is Niranjan from bangalore it is second day class
+=======
+Hello this is niranjn
+>>>>>>> 6c63469 (changes)
